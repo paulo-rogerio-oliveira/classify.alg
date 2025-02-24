@@ -1,8 +1,8 @@
 
 ---
-# **Classificação de Vinhos utilizando Machine Learning** 🍷  
+# **Classificação de Vinhos utilizando Machine Learning**
 
-## 📌 **Descrição do Projeto**  
+## **Descrição do Projeto**  
 Este projeto aplica **algoritmos de Machine Learning** para classificar vinhos com base em suas características químicas. Foram utilizados três modelos principais:  
 
 - ✅ **Regressão Logística**  
@@ -15,9 +15,9 @@ O objetivo é avaliar qual modelo possui melhor desempenho na classificação do
 
 ## ⚙ **Pré-requisitos**  
 
-📌 **Linguagem**: Python 3.9+  
-📌 **Ambiente virtual**: Conda ou Virtualenv  
-📌 **Bibliotecas necessárias** (instale com `pip install -r requirements.txt`):  
+**Linguagem**: Python 3.9+  
+**Ambiente virtual**: Conda ou Virtualenv  
+**Bibliotecas necessárias** (instale com `pip install -r requirements.txt`):  
 
 - `pandas`  
 - `numpy`  
@@ -27,7 +27,7 @@ O objetivo é avaliar qual modelo possui melhor desempenho na classificação do
 
 ---
 
-## 🚀 **Como Executar o Projeto**  
+## **Como Executar o Projeto**  
 
 1️⃣ **Clone o repositório**  
 ```bash
