@@ -1,26 +1,23 @@
-Classificação de Vinhos utilizando Machine Learning
-📌 Descrição do Projeto
-Este projeto utiliza algoritmos de classificação para prever a qualidade dos vinhos com base em suas características químicas. São aplicadas técnicas de pré-processamento, validação cruzada e otimização de hiperparâmetros para selecionar o melhor modelo.
 
-Os algoritmos utilizados incluem:
-✅ Regressão Logística
-✅ SVM (Support Vector Machine)
-✅ Árvore de Decisão
+---
 
-O desempenho dos modelos é avaliado utilizando métricas de classificação, como acurácia, precisão, recall, F1-score e curva ROC.
+## ⚙ **Pré-requisitos**  
 
-📂 Estrutura do Projeto
-📁 data/ → Conjunto de dados original e preprocessado
-📁 notebooks/ → Jupyter Notebooks com experimentos
-📁 models/ → Modelos treinados e salvos
-📄 requirements.txt → Lista de dependências do projeto
+📌 **Linguagem**: Python 3.9+  
+📌 **Ambiente virtual**: Conda ou Virtualenv  
+📌 **Bibliotecas necessárias** (instale com `pip install -r requirements.txt`):  
 
-⚙ Pré-requisitos
-📌 Linguagem: Python 3.9+
-📌 Ambiente virtual: Conda ou Virtualenv
+- `pandas`  
+- `numpy`  
+- `scikit-learn`  
+- `matplotlib`  
+- `seaborn`  
 
-Pandas
-NumPy
-Scikit-Learn
-Matplotlib
-Seaborn
+---
+
+## 🚀 **Como Executar o Projeto**  
+
+1️⃣ **Clone o repositório**  
+```bash
+git clone https://github.com/seu-usuario/classificacao-vinhos.git
+cd classificacao-vinhos
